@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Rhode Island Department of Transportation</origin>
+<origin>Rhode Island Department of Environmental Management</origin>
+<pubdate>20120101</pubdate>
+<title>Sewer Lines; sewerlns12</title>
+<edition>2012</edition>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>Providence, Rhode Island</pubplace>
+<publish>Rhode Island Department of Environmental Management</publish>
+</pubinfo>
+<othercit>Suggested bibliographic reference: RIGIS, {2012. Sewer Lines; sewerlns12. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 16 October 2014).</othercit>
+<onlink>http://www.rigis.org</onlink>
+<lworkcit>
+<citeinfo>
+<origin>Rhode Island Geographic Information System (RIGIS)</origin>
+<pubdate>1993</pubdate>
+<title>Rhode Island Geographic Information System (RIGIS) Data Distribution System</title>
+<onlink>http://www.rigis.org</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Main sewer lines, force mains, and interceptors for public and private sewer system based on the best available information supplied by municipalities and utilities.  Detailed house to house connections not shown.</abstract>
+<purpose>Statewide inventory and land use planning</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>199601</begdate>
+<enddate>20120101</enddate>
+</rngdates>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-71.843260</westbc>
+<eastbc>-71.192877</eastbc>
+<northbc>42.017895</northbc>
+<southbc>41.171640</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>utilitiesCommunication</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>sewers</themekey>
+<themekey>force mains</themekey>
+<themekey>interceptors</themekey>
+<themekey>pipes</themekey>
+<themekey>utilities</themekey>
+</theme>
+<place>
+<placekt>none</placekt>
+<placekey>United States</placekey>
+<placekey>Rhode Island</placekey>
+<placekey>northeast</placekey>
+<placekey>New England</placekey>
+</place>
+</keywords>
+<accconst>None.</accconst>
+<useconst>
+This dataset is provided 'as is.’  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products. Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Rhode Island Department of Environmental Management</cntorg>
+<cntper>Paul Jordan</cntper>
+</cntorgp>
+<cntpos>Supervising GIS Specialist</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>235 Promenade Street</address>
+<city>Providence</city>
+<state>Rhode Island</state>
+<postal>02908</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>401-222-2776 x4315</cntvoice>
+<cntfax>401-222-2069</cntfax>
+<cntemail>paul.jordan@dem.ri.gov</cntemail>
+<hours>8:30am to 4:00pm</hours>
+<cntinst>e-mail is preferred</cntinst>
+</cntinfo>
+</ptcontac>
+<datacred>RIDEM; RIDOT</datacred>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>none</attraccr>
+</attracc>
+<logic>none</logic>
+<complete>none</complete>
+<posacc>
+<horizpa>
+<horizpar>none</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>RIDOT</origin>
+<pubdate>Unknown</pubdate>
+<title>RIGIS-UMass project report for dbdevel 06-1990</title>
+</citeinfo>
+</srccite>
+<srcscale>Various</srcscale>
+<typesrc>paper</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>1996</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea>RIDOT</srccitea>
+<srccontr>Provided Data</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>RIDOT</origin>
+<origin>RIGIS</origin>
+<pubdate>19960101</pubdate>
+<title>Sewer Lines; s44usl96</title>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>Providence, Rhode Island</pubplace>
+<publish>RIGIS</publish>
+</pubinfo>
+<othercit>RIDOT has contributed this data into the Rhode Island Geographic Information System Database</othercit>
+<onlink>http://www.rigis.org</onlink>
+<lworkcit>
+<citeinfo>
+<origin>RIGIS</origin>
+<pubdate>1996</pubdate>
+<title>RIGIS Database</title>
+<geoform>vector digital data</geoform>
+<onlink>http://www.rigis.org</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</srccite>
+<srcscale>24000</srcscale>
+<typesrc>unknown</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>1996</caldate>
+</sngdate>
+</timeinfo>
+</srctime>
+<srccitea>RIGIS 1996</srccitea>
+<srccontr>positional and attribute information</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>Road centerlines were coded for pipe existence cross country pipes were transferred to 24000 base with a zts and hand digitized from tablet.</procdesc>
+<srcused>RIDOT</srcused>
+<procdate>1996</procdate>
+<srcprod>RIGIS 1996</srcprod>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Rhode Island Department of Administration</cntorg>
+<cntper>John Stachelhaus</cntper>
+</cntorgp>
+<cntpos>RIGIS Coordinator</cntpos>
+<cntaddr>
+<addrtype>mailing address</addrtype>
+<address>1 Capitol Hill</address>
+<city>Providence</city>
+<state>Rhode Island</state>
+<postal>02908</postal>
+</cntaddr>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Information was supplied either electronically as shapefiles, CAD files, PDF maps, image files or hardcopy maps. Electronic data in the form of shapefiles or CAD files contained data that were not used to generate the sewerlines for this coverage. Locational data  extracted to map the service lines. Hardcopy maps  electronically scanned, imported into ArcMap and georeferenced . Wastewater Facilities Plans submitted to RIDEM for review  used where no other sources were available. The new sewer lines were then drawn to conform to the road coverage of RI base maps. The original 1996 RIGIS dataset was unaltered except where major discrepancies between the existing and new updates were observed. Sewer services in Providence are assumed to be available throughout the town and are drawn concurrent with streets. No updates were made to areas or towns that did not provide maps.</procdesc>
+<srcused>RIGIS 1996</srcused>
+<procdate>201201</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Rhode Island Department of Environmental Management</cntorg>
+<cntper>Theodore Peters</cntper>
+</cntorgp>
+<cntpos>Supervising GIS Specialist</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>235 Promenade Street</address>
+<city>Providence</city>
+<state>Rhode Island</state>
+<postal>02908</postal>
+</cntaddr>
+<cntvoice>401-222-3961 ext. 7705</cntvoice>
+<cntemail>theodore.peters@dem.ri.gov</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Data contributed to RIGIS by the Rhode Island Department of Environmental Management.  Metadata were reviewed, merged with prior 1996 version, minor corrections made to formatting and content, RIGIS distribution information added.</procdesc>
+<procdate>20120508</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Greg Bonynge</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-2180</cntvoice>
+<cntemail>greg@edc.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>String</sdtstype>
+<ptvctcnt>37667</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<gridsys>
+<gridsysn>State Plane Coordinate System 1983</gridsysn>
+<spcs>
+<spcszone>3800</spcszone>
+<transmer>
+<sfctrmer>0.999994</sfctrmer>
+<longcm>-71.500000</longcm>
+<latprjo>41.083333</latprjo>
+<feast>328083.333333</feast>
+<fnorth>0.000000</fnorth>
+</transmer>
+</spcs>
+</gridsys>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.000000</absres>
+<ordres>0.000000</ordres>
+</coordrep>
+<plandu>survey feet</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 80</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>Sewer_Lines</enttypl>
+<enttypd>Arc Attribute Table</enttypd>
+<enttypds>None</enttypds>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape.len</attrlabl>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Erica Tefft</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>erica@edc.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</distrib>
+<distliab>This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Esri shapefile</formname>
+<filedec>ZIP</filedec>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://www.rigis.org</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.</fees>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20120229</metd>
+<metrd>20120508</metrd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Rhode Island Department of Environmental Management</cntorg>
+<cntper>Paul Jordan</cntper>
+</cntorgp>
+<cntpos>Supervising GIS Specialist</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>235 Promenade Street</address>
+<city>Providence</city>
+<state>Rhode Island</state>
+<postal>02908</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>401-222-2776 x4315</cntvoice>
+<cntfax>401-222-2069</cntfax>
+<cntemail>paul.jordan@dem.ri.gov</cntemail>
+<hours>8:30am to 4:00pm</hours>
+<cntinst>e-mail is preferred</cntinst>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+</metadata>
